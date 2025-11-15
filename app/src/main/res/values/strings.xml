@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shield VPN</string>
+    <string name="vpn_session_name">Shield VPN Session</string>
+    <string name="vpn_channel_name">Shield VPN</string>
+    <string name="vpn_channel_description">Persistent notification for the VPN tunnel</string>
+</resources>
