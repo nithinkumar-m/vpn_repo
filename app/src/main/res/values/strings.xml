@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Secure VPN</string>
+    <string name="vpn_status_disconnected">Disconnected</string>
+    <string name="vpn_status_connecting">Connecting…</string>
+    <string name="vpn_status_connected">Connected</string>
+    <string name="vpn_status_error">Error</string>
+    <string name="vpn_connect">Connect</string>
+    <string name="vpn_disconnect">Disconnect</string>
+    <string name="vpn_select_server">VPN Endpoint</string>
+    <string name="vpn_logs">Session Logs</string>
+    <string name="vpn_request_permission">Grant VPN permission to proceed</string>
+    <string name="vpn_notification_channel">Secure VPN</string>
+    <string name="vpn_notification_description">Secure VPN connection status</string>
+    <string name="vpn_notification_title">Secure VPN session</string>
+    <string name="vpn_notification_connecting">Negotiating tunnel…</string>
+    <string name="vpn_notification_connected">Tunnel active</string>
+    <string name="vpn_notification_disconnected">Tunnel stopped</string>
+    <string name="vpn_server_description">%1$s • %2$s:%3$d</string>
+</resources>
