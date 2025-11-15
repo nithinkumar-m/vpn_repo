@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VPN App</string>
+    <string name="connect_vpn">Connect VPN</string>
+    <string name="disconnect_vpn">Disconnect VPN</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="vpn_info">This VPN app provides basic VPN functionality. Connect to secure your internet connection.</string>
+</resources>
