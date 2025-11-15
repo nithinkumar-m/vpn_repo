@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Secure VPN</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="server_not_connected">Server: Not Connected</string>
+    <string name="ip_placeholder">IP: --</string>
+    <string name="duration_placeholder">Duration: --</string>
+    <string name="vpn_icon">VPN Icon</string>
+    <string name="features">Features:</string>
+    <string name="feature_1">✓ Secure encrypted connection</string>
+    <string name="feature_2">✓ No logs policy</string>
+    <string name="feature_3">✓ Fast and reliable</string>
+</resources>
